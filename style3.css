@@ -1,1 +1,99 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
 
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+header{
+   background-color: black;
+   padding: 50px;
+   
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.qwertyuiop{
+    font-size: xx-large;
+    margin-top: 100px;
+    text-align: right;
+}
+.productm {
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid darkblue;
+    background-color: white;
+    float: right;
+height: 420px;
+margin-top: 78px;
+
+}
+.zaq{
+     width: 200px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid darkblue;
+    background-color: white;
+    float: right;
+height: 420px;
+margin-top: 78px;
+}
+.zaq p{
+    font-size: 30px;
+}
+
+.zap{
+     width: 900px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid darkblue;
+    background-color: white;
+    float: right;
+height: 420px;
+margin-top: 78px;
+}
+
+.zap p{
+    font-size: 25px;
+}
+
+.maxim{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+    display: flex;
+    float: left;
+}
+
+.vasya{
+    color: white;
+    font-size: 40px;
+font-family: cursive;
+right: 40px;
+}
+
+header img{
+    float: left;
+    margin-right: 50px;
+}
+.rpg{
+    color: red;
+}
+
+.wer{
+    color: yellow;
+}
+.builder:hover{
+    transform: translateX(1100px);
+    transition: 5s ease-in; 
+    margin-bottom: 100px;
+}
