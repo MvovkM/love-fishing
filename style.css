@@ -1,13 +1,22 @@
 body{
     font-family: sans-serif;
+    background-color: lightgray;
     }
 h1{
     text-align: center;
     color: white;
     font-size: 70px;
+    display: block;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  transition: all .25s;
+  text-align: center;
+}
+h1:hover{
+    letter-spacing: 35px;
 }
 
-header p{
+.maxim{
     background-color: brown;
     color: aliceblue;
     font-size: 30px;
@@ -41,6 +50,7 @@ main{
 }
 section{
     width: 1000px;
+    justify-content: center;
 }
 
 header img{
@@ -52,12 +62,41 @@ footer{
 }
 
 .qwertyuiop{
-    background-color: white;
-    font-size: xx-large;
+    font-size: 20px;
     margin-top: 100px;
+    text-align: right;
 }
 
 h2{
     text-align: center;
     font-size: 40px;
+}
+
+.vasya{
+    color: white;
+    font-size: 40px;
+font-family: cursive;
+right: 40px;
+}
+
+.builder:hover{
+    transform: translateX(1100px);
+    transition: 5s ease-in; 
+    margin-bottom: 100px;
+}
+.rpg{
+    color: red;
+}
+
+.wer{
+    color: yellow;
+}
+.productg{
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid darkblue;
+    background-color: white;
+    float: right;
+height: 400px;
 }
