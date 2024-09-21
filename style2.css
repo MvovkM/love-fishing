@@ -148,3 +148,12 @@ header img{
 footer{
     margin-top: 200px;
 }
+.productg{
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid darkblue;
+    background-color: white;
+    float: right;
+height: 400px;
+}
