@@ -20,7 +20,7 @@ h2{
 }
 .qwertyuiop{
     font-size: xx-large;
-    margin-top: 100px;
+    margin-top: 200px;
     text-align: right;
 }
 .productm {
@@ -96,4 +96,7 @@ header img{
     transform: translateX(1100px);
     transition: 5s ease-in; 
     margin-bottom: 100px;
+}
+footer{
+    margin-top: 200px;
 }
